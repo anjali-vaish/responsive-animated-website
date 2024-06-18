@@ -44,15 +44,6 @@ Contributions are what make the open-source community such an amazing place to l
  ```bash
 git checkout -b feature/AmazingFeature
  
-3. **Commit Your Changes**:
- ```bash
-git commit -m 'Add some AmazingFeature'
 
-4. **Push to the Branch*8:
- ```bash
-git push origin feature/AmazingFeature
-
-5. **Open a Pull Request**
-Feel free to report any issues or add feature requests through the issue tracker.
 
 
