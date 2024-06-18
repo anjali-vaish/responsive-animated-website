@@ -22,7 +22,7 @@ Welcome to the Duo Studio Website repository! This project showcases a dynamic, 
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/anjali-vaish/responsive-animated-website
+   git clone https://github.com/anjali-vaish/responsive-animated-website.git
    cd responsive-animated-website
    ```
 
