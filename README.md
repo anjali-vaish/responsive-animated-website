@@ -32,26 +32,27 @@ Ensure you have an active internet connection as the project uses CDN links for 
 ## 🖥️ Usage
 Dive into the website to explore its interactive features:
 
-Hover over elements to see cursor changes.
-Scroll through sections to trigger animations.
-Interact with multimedia content such as videos and images.
+-Hover over elements to see cursor changes.
+-Scroll through sections to trigger animations.
+-Interact with multimedia content such as videos and images.
+
 ## 🤝 Contributing
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
 
-Fork the Repository
-Create Your Feature Branch:
-bash
-Copy code
+1. **Fork the Repository**
+2. **Create Your Feature Branch**:
+ ```bash
 git checkout -b feature/AmazingFeature
-Commit Your Changes:
-bash
-Copy code
+ 
+3. **Commit Your Changes**:
+ ```bash
 git commit -m 'Add some AmazingFeature'
-Push to the Branch:
-bash
-Copy code
+
+4. **Push to the Branch*8:
+ ```bash
 git push origin feature/AmazingFeature
-Open a Pull Request
+
+5. **Open a Pull Request**
 Feel free to report any issues or add feature requests through the issue tracker.
 
 
