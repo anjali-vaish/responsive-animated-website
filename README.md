@@ -1,7 +1,5 @@
-Certainly! Below is the full README content in a format that you can easily copy and paste into your project's README.md file on GitHub.
 
-```markdown
-# Duo Studio Website
+# Duo Studio Website replication
 
 Welcome to the Duo Studio Website repository! This project showcases a dynamic, visually engaging website that represents Duo Studio's digital branding and creative capabilities.
 
@@ -24,7 +22,7 @@ Welcome to the Duo Studio Website repository! This project showcases a dynamic, 
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/duo-studio-website.git
+   git clone https://github.com/anjali-vaish/duo-studio-website.git
    cd duo-studio-website
    ```
 
@@ -64,7 +62,7 @@ Feel free to report any issues or add feature requests through the issue tracker
 
 ---
 
-Enjoy exploring and contributing to Duo Studio Website! 🚀
+Enjoy exploring and contributing to Duo Studio Website clone! 🚀
 ```
 
-This format ensures that you can directly insert this markdown into your README.md file, maintaining all the formatting and structural elements necessary for a clean and informative GitHub page.
+
